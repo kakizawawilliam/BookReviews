@@ -1,2 +1,2 @@
 # 本レビュー
-![本のカバー](images/django.png　=100x200)
+![本のカバー](images/django.png　=500x700)
